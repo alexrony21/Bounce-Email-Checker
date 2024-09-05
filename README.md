@@ -1,5 +1,7 @@
 # Bounce Email Checker
 
+![Area Code Database](https://raw.githubusercontent.com/alexrony21/Bounce-Email-Checker/main/Bounce_Email_Checker.png)
+
 ## Features
 
 1. **Support All Domains**: Works with email addresses from any domain.
