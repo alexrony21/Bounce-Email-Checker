@@ -1,6 +1,6 @@
 # Bounce Email Checker
 
-![Area Code Database](https://raw.githubusercontent.com/alexrony21/Bounce-Email-Checker/main/Bounce_Email_Checker.png)
+![image](https://raw.githubusercontent.com/alexrony21/Bounce-Email-Checker/main/Bounce_Email_Checker.png)
 
 ## Features
 
@@ -12,13 +12,16 @@
 
 ## Pricing
 
-1. **50000 Emails**: $100
-2. **100000 Emails**: $190
+| **Email Volume**  | **Total Cost** | **Cost per 1,000 Emails** |
+|-------------------|----------------|---------------------------|
+| 50,000 emails     | $70            | $1.40                     |
+| 100,000 emails    | $110           | $1.10                     |
+| 200,000 emails    | $170           | $0.85                     |
+| 500,000 emails    | $350           | $0.70                     |
 
 ## Contact
 
-For custom list pricing or other inquiries, contact me via Telegram [@alexrony21](https://t.me/alexrony21) or on Facebook.
+For custom list pricing or other inquiries, contact me via Telegram [@alexrony21](https://t.me/alexrony21).
 
-**Please do not contact me if you are not serious about purchasing.**
 
 Thank you!
