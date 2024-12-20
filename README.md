@@ -9,15 +9,19 @@
 1. **Support All Domains**: Works with email addresses from any domain.
 
    **支持所有域**：适用于任何域的电子邮件地址。
+   
 2. **Fast Checking**: Quickly verifies emails.
 
   **快速检查**：快速验证电子邮件。
+  
 3. **Python Programming Language**: Developed in Python for reliability.
 
   **Python 编程语言**：使用 Python 开发以确保可靠性。
+  
 4. **Support MultiProcessing**: Uses multiprocessing for efficient checking.
 
   **支持多重处理**：使用多重处理进行高效检查。
+  
 5. **100% Accurate Checking**: Ensures precise verification.
 
   **100% 准确检查**：确保精确验证。
